@@ -15,5 +15,5 @@ Welcome to my data analyst portfolio website. I analyze and visualize data using
 - 📈 [Finance Report – Power BI](https://github.com/Mohdekrama/data-analyst-portfolio)
 
 ## 📬 Contact
-- Email: your.email@example.com
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: mohdakram5360@gmail.com
+- [LinkedIn] https://www.linkedin.com/in/muhammed-ekrama-3021091a0/
