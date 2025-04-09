@@ -1,5 +1,4 @@
-# data-analyst-portfolio
-“A portfolio of data analysis projects using Python, SQL, Excel, and Power BI
+
 # 🧠 Data Analyst Portfolio
 
 Welcome! I’m Mohd Ekrama, a data analyst skilled in Python, SQL, Power BI, and Excel. This portfolio showcases real-world projects that demonstrate my ability to extract insights and make data-driven decisions.
