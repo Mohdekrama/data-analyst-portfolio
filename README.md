@@ -25,6 +25,6 @@ Welcome! I’m Mohd Ekrama, a data analyst skilled in Python, SQL, Power BI, and
 - [Sales Dashboard](./Excel-Dashboards/sales-dashboard)
 
 ## 📬 Contact
-- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/muhammed-ekrama-3021091a0/)(#)
+- LinkedIn: https://www.linkedin.com/in/muhammed-ekrama-3021091a0/(#)
 - Email: mohdakram5360@gmail.com
 
